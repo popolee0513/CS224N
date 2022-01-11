@@ -1,4 +1,4 @@
-***** CS224N *****
+### CS224N 
 **Implement common NLP techniques**
 - apply skip-gram and negative sampling to implement word2vector algorithm  
 - use encoder-decoder with attention algorithm to build NMT system
